@@ -1,4 +1,4 @@
-"Hi, my name is Josh.\n"
+"Hi, my name is Josh."
 
 def introduction(josh)
   puts "Hi, my name is #{josh}."
